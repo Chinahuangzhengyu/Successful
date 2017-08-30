@@ -11,7 +11,7 @@ import android.view.View;
 import com.baidu.www.successful.R;
 
 /**
- * Created by 黄郑宇 on 2017/8/30.
+ * Created by 黄郑宇 on 2017/8/30.兄弟真棒！
  */
 
 public class MyView extends View {
